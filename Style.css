@@ -1,0 +1,8 @@
+.weather-container{
+    border: 5px groove orange;
+    min-height: 150px;
+    max-width: 350px;
+    margin: 25px auto;
+    text-align: center;
+    
+}
